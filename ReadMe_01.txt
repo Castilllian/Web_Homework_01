@@ -1,0 +1,1 @@
+Сайт YouTube.com работает на протоколе HTTP (Hypertext Transfer Protocol) и HTTPS (HTTP Secure), который обеспечивает защищенное соединение между пользователем и сервером.
